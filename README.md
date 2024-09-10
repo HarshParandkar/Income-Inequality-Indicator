@@ -8,7 +8,8 @@ This project provides a web application that predicts the Gini Index based on so
 
 - `app.py`: Contains the Flask application code.
 - `index.html`: HTML form for user input.
-- `best_model.pkl`: Pickle file containing the trained machine learning model.
+- `dataset.xlsx`: Dataset for the model. Follow this link to download it - https://docs.google.com/spreadsheets/d/10G_CVXG9qV3GztIFQ0WDGniIP4uIaoMT/edit?usp=drive_link&ouid=101673839528144597155&rtpof=true&sd=true
+- `best_model.pkl`: Pickle file containing the trained machine learning model. Follow this link to download the pickle file. - https://drive.google.com/file/d/1rQ4ZJhtlGrt9q5zxEebuAeCbYTK7gjQC/view?usp=drive_link
 - `requirements.txt`: Lists the Python dependencies for the project.
 
 ## Installation
