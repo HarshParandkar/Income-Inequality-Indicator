@@ -7,6 +7,7 @@ This project provides a web application that predicts the Gini Index based on so
 ## Project Structure
 
 - `app.py`: Contains the Flask application code.
+- `income_inequality_indicator_2_0.py` - Contains the model building code.
 - `index.html`: HTML form for user input.
 - `dataset.xlsx`: Dataset for the model. Follow this link to download it - https://docs.google.com/spreadsheets/d/10G_CVXG9qV3GztIFQ0WDGniIP4uIaoMT/edit?usp=drive_link&ouid=101673839528144597155&rtpof=true&sd=true
 - `best_model.pkl`: Pickle file containing the trained machine learning model. Follow this link to download the pickle file. - https://drive.google.com/file/d/1rQ4ZJhtlGrt9q5zxEebuAeCbYTK7gjQC/view?usp=drive_link
