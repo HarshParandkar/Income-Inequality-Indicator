@@ -15,7 +15,7 @@ This project provides a web application that predicts the Gini Index based on so
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **Clone the Repository**
 2. **Install Dependencies using 'pip install -r requirements.txt'**
 3. **Run the Flask App using 'python app.py**
 4. **Access the Web Application: Open your browser and go to http://127.0.0.1:5000 to see the Gini Index Predictor web application.**
